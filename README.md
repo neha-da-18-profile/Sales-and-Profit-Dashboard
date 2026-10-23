@@ -48,7 +48,7 @@ The dashboard uses DAX calculations, calculated columns, and Power Query transfo
 - **Interactive Visualizations:** Presenting business metrics through charts and KPI cards.
 
 ## 🖼️ Dashboard Preview
-![Sales & Profit Dashboard](Sales-Profit-Dashboard.png)
+![Sales & Profit Dashboard](Sales-and-Profit-Dashboard.png)
 
 ## 💡 Key Insights
 - Total sales amount is displayed as 3.75M.
